@@ -144,15 +144,6 @@ This application can be deployed to:
 
 - **GitHub Pages** - Free hosting directly from your repository
 - **Netlify** - Connect your repository for automatic deployments
-- **Vercel** - Simple deployment with CI/CD
-- **Any static hosting service** - No server required
 
-### Deploy to GitHub Pages:
-1. Push your code to GitHub
-2. Go to repository Settings → Pages
-3. Select `main` branch as source
-4. Your site will be live at `https://yourusername.github.io/poke/`
-
----
 
 **Happy Pokédex Hunting!** ✨🔴
